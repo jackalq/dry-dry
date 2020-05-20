@@ -1,6 +1,6 @@
 {
   "name": "package-json-dry",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "release a new dry-dry version for my test. Use npm across multiple projects without repeating yourself",
   "main": "dist/index.js",
   "bin": {
